@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @waynebreeze2
-- 👀 I’m interested in hacking 
+- 👀 I’m interested in ICT
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on python 
 - 📫 How to reach me telegram @el_maestro1
